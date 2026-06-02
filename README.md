@@ -9,5 +9,5 @@
 *Network integration of multi-omics data embedded in the hyperbolic space.*
 
 ---
-In this study, we developed a lipid–metabolite–protein network that combines a protein–protein interaction network and enzymatic and genetic interactions of proteins with metabolites and lipids to provide a unified framework for multi-omics integration. 
+In this study, we developed a lipid–metabolite-protein network that combines a protein–protein interaction network and enzymatic and genetic interactions of proteins with metabolites and lipids to provide a unified framework for multi-omics integration. 
 ---
