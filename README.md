@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="Figure.png" width="600"/>
+  <img src="network_figure_cover_2.png" width="600"/>
 </p>
 
 *Network integration of multi-omics data embedded in the hyperbolic space.*
